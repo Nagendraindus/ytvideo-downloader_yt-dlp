@@ -81,7 +81,7 @@ Contributions are welcome! Please follow these steps:
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) for their powerful YouTube downloading library.
